@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\bin\Debug\tpmodul6_1302210078.exe.config
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\bin\Debug\tpmodul6_1302210078.exe
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\bin\Debug\tpmodul6_1302210078.pdb
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\obj\Debug\tpmodul6_1302210078.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\obj\Debug\tpmodul6_1302210078.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\obj\Debug\tpmodul6_1302210078.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\obj\Debug\tpmodul6_1302210078.exe
+C:\Users\ASUS\Documents\GitHub\TPMODUL6_1302210078\obj\Debug\tpmodul6_1302210078.pdb
